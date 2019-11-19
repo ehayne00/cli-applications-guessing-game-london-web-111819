@@ -1,1 +1,3 @@
-# Code your solution here!
+def generate_number
+
+end
